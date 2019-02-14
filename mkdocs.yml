@@ -1,0 +1,57 @@
+# Project information
+site_name: Gnome Docs
+site_author: Nauman Umer
+site_url: https://squidfunk.github.io/mkdocs-material/
+
+# Repository
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
+edit_uri: ""
+
+# Theme
+theme:
+  name: material
+  custom_dir: theme/arc
+  feature:
+    tabs: true
+
+
+nav:
+  - Tutorials:
+    - Index: "index.md"
+    - Setup Gnome Dev Envirnoment: "tutorials/setup-gnome-env.md"
+    - Hello Gnome App: "tutorials/hello-gnome.md"
+  - Api Docs:
+    - Pango Markup Formate: "api-docs/pango-markup-format.md"
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+      linenums: true
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+    - assets/styles/utils.css
