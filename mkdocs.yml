@@ -1,5 +1,5 @@
 # Project information
-site_name: Gnome Docs
+site_name: COMSATS Course Outline
 site_author: Nauman Umer
 site_url: https://squidfunk.github.io/mkdocs-material/
 
@@ -17,12 +17,47 @@ theme:
 
 
 nav:
-  - Tutorials:
+  - Programs:
     - Index: "index.md"
-    - Setup Gnome Dev Envirnoment: "tutorials/setup-gnome-env.md"
-    - Hello Gnome App: "tutorials/hello-gnome.md"
-  - Api Docs:
-    - Pango Markup Formate: "api-docs/pango-markup-format.md"
+    - B Architecture: "programs/barc.md"
+    - B Design: "programs/bdes.md"
+    - B Fine Arts: "programs/bart.md"
+    - BS Computer Science: "programs/bscs.md"
+    - BS Software Engineering: "programs/bsse.md"
+    - BS Telecom & Network: "programs/bstn.md"
+    - BS Economics: "programs/bsec.md"
+    - BS Accounting & Finance: "programs/bsaf.md"
+    - BS Business Administration: "programs/bba.md"
+    - BS Psychology: "programs/bsps.md"
+    - BS Media Studies: "programs/bsms.md"
+    - BS Physics: "programs/bsphy.md"
+    - BS Electronics: "programs/bsel.md"
+    - BS Bioinformatics: "programs/bsbi.md"
+    - BS Biosciences: "programs/bsbs.md"
+    - BS Electrical (Electronics) Engineering: "programs/bseee.md"
+    - BS Electrical (Power) Engineering: "programs/bsepe.md"
+    - BS Electrical (Computer) Engineering: "programs/bsece.md"
+    - BS Electrical (Telecommunication) Engineering: "programs/bsete.md"
+    - BS Electrical Engineering: "programs/bsee.md"
+    - BS Computer Engineering: "programs/bsce.md"
+    - BS Chemical Engineering: "programs/bsche.md"
+    - BS Mechanical Engineering: "programs/bsme.md"
+    - BS Civil Engineering: "programs/bscve.md"
+    - BS Mathematics: "programs/bsmath.md"
+    - BS Statistics: "programs/bsstat.md"
+    - BS Earth Sciences: "programs/bsearth.md"
+    - BS Development Studies: "programs/bsds.md"
+    - BS Environmental Sciences: "programs/bses.md"
+    - BS Biotechnology: "programs/bsbt.md"
+
+  - Courses:
+    - Index: 'courses/index.md'
+    - CSC101 Introduction to ICT: "courses/CSC101.md"
+    - HUM100 English Comprehsion & Composition: "courses/HUM100.md"
+    - HUM102 Report Writing: "courses/HUM102.md"
+    - HUM110 Islamic Studies: "courses/HUM110.md"
+    - MTH104 Calculus & Analytic Geometry: "courses/MTH104.md"
+    - PHY121 Applied Physics for Engineers: "courses/PHY121.md"
 
 # Extensions
 markdown_extensions:
