@@ -2,6 +2,8 @@
 site_name: COMSATS Course Outline
 site_author: Nauman Umer
 site_url: https://squidfunk.github.io/mkdocs-material/
+docs_dir: src
+site_dir: docs
 
 # Repository
 repo_name: squidfunk/mkdocs-material
