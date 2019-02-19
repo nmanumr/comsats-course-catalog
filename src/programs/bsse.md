@@ -14,20 +14,20 @@ Bachelor of Science in Software Enginnering
 
 | Name | Min Courses | Min Credit Hours |
 |------|:-----------:|:----------------:|
-| [Computer Science](#computing-core-courses) | 11 | 41 |
-| [Software Engineering](#computing-supporting-area-courses) | 09 | 27 |
-| [Allied](#computing-general-education-courses) | 05 | 17 |
-| [Institutional](#computer-science-core-courses) | 06 | 18 |
+| [Computer Science](#computer-science-courses) | 11 | 41 |
+| [Software Engineering](#software-engineering-courses) | 09 | 27 |
+| [Allied](#allied-courses) | 05 | 17 |
+| [Institutional](#institutional-courses) | 06 | 18 |
 | [Software Engineerig Project](#computer-science-supporting-areas-courses) | 02 | 06 |
 
 ## Elective Courses
 
 | Name | Min Courses | Min Credit Hours |
 |------|:-----------:|:----------------:|
-| [Computer Science](#computer-science-elective-courses) | 3 | 9 |
-| [Supporting Science](#computer-science-elective-courses) | 2 | 6 |
-| [Institutional Elective](#institutional-electives) | 2 | 6 |
-| [Domain Specific](#sciences-electives) | 2 | 6 |
+| [Computer Science](#computer-science-elective) | 3 | 9 |
+| [Supporting Science](#supporting-science-elective) | 2 | 6 |
+| [Institutional Elective](#institutional-elective-courses) | 2 | 6 |
+| [Domain Specific](#domain-specific-elective3) | 2 | 6 |
 
 ## Total
 
@@ -159,135 +159,101 @@ Bachelor of Science in Software Enginnering
 | 8 | SED305 | Software Tesing | 3(2, 1) | SED301 |
 | 9 | SED320 | Software Project Management | 3(3, 0) | CSD201 |
 
-### Computing General Education Courses
+### Allied Courses
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC101 | Introduction to ICT | 4(2, 1) | - |
-| 2 | CSC110 | Professional Practices for IT | 3(3, 0) | - |
-| 3 | HUM100 | Englisg Comprehension & Composition | 3(3, 0) | - |
-| 4 | HUM102 | Report Writing Skills | 3(3, 0) | HUM100 |
-| 5 | HUM103 | Communication Skills | 3(3, 0) | HUM100 |
-| 6 | HUM110 | Islamic Studies [^1] | 3(3, 0) | - |
-| 7 | HUM114 | Ethics [^2] | 3(3, 0) | - |
-| 8 | HUM111 | Pakistan Studies | 3(3,0) | - |
-|   |      | **Total Credit Hours** | 21 |  |
+| 1 | EEE119 | Circuits and Electronics | 4(3, 1) | |
+| 2 | EEE241 | Digital Logic Design | 4(3, 1) | |
+| 3 | MTH104 | Calculus and Analytic Geometery | 3(3, 0) | |
+| 4 | MTH231 | Linear Algerba | 3(3, 0) | |
+| 5 | MTH262 | Statistics & Probability Theory | 3(3, 0) | |
 
-[^1]: Non-Muslim students can opt for HUM114 course in lieu of HUM110 Islamic Studies, if they intend to.
-[^2]: Only for Non-Muslim students
-
-### Computer Science Core Courses
+### Institutional Courses
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC301 | Design & Analysis of Algorithms | 3(3, 0) | CSC211 |
-| 2 | CSC312 | Theory of Automata | 3(3, 0) | CSC102 |
-| 3 | CSC321 | Micropressor & Assembly Langage | 3(2, 1) | EEE241 |
-| 4 | CSC336 | Web Technologies | 3(2, 1) | CSC241 |
-| 5 | CSC441 | Compiler Construction | 3(2, 1) | CSC312 |
-| 6 | CSC462 | Artificial Intelligence | 3(2, 1) | CSC102 |
-| 7 | EEE440 | Computer Architecture | 3(3, 0) | EEE241 |
-|   |      | **Total Credit Hours** | 21 |  |
+| 1 | HUM103 | Communication Skills | 3(3, 0) | HUM100 |
+| 2 | HUM100 | English Comprehension & Composition | 3(3, 0) | |
+| 3 | MGT101 | Introduction to Management | 3(3, 0) | |
+| 4 | HUM110 | Islamic Studies[^1] | 3(3, 0) | |
+| 5 | HUM111 | Pakistan Studies | 3(3, 0) | |
+| 6 | HUM102 | Report Writing Skills | 3(3, 0) | HUM100 |
+| 7 | SED499 | Project[^2] | 6(0, 2) | |
 
-### Computer Science Supporting Areas Courses
+[^1]: Non-Muslims students can opt for HUM1114 Ethics 3(3, 0) course in lieu of HUM100 Islic studies
+
+[^2]: SED499 can only be offered/registered in 7th and 8th  as 2(0, 2) and 4(0, 4) respectively
+
+## Elective Courses
+
+### Computer Science Elective
+| # | Code | Title | Credit Hours | Pre-requisite(s) |
+|:-:|:----:|-------|:------------:|:----------------:|
+| 1 | CSD205 | Design and Analysis of Algorithms | 3(3, 0) | CSD202 |
+| 2 | CSD328 | Distributed Computing | 4(3, 1) | CSD100 |
+| 3 | CSD331 | Digital Image Processing | 3(3, 0) | |
+| 4 | CSD337 | Web technologies | 4(3, 1) | CSD100 |
+| 5 | CSD421 | Systems Programming | 4(3, 1) | CSD100 |
+| 6 | CSD446 | Advanced Object Oreinted Programming | 4(3, 1) | CSD200 |
+| 7 | CSD449 | Semantic Web | 3(3, 0) | |
+| 8 | CSD451 | Multimedia and Hypermedia Syatems | 3(3, 0) | CSD304 |
+| 9 | CSD454 | Computer Animation | 3(3, 0) | CSD304 |
+| 10 | CSD455 | Computer Vision | 3(3, 0) | CSD304 |
+| 11 | CSD472 | Geographical Information Systems | 3(3, 0) | |
+| 12 | CSD496 | Business Process Reengineering | 3(3, 0) | CSD201 |
+
+
+### Software Engineering Electives
+| # | Code | Title | Credit Hours | Pre-requisite(s) |
+|:-:|:----:|-------|:------------:|:----------------:|
+| 1 | SED348 | Data Security & Encryption | 3(3, 0) | |
+| 2 | SED349 | Introduction to Soft Computing | 3(3, 0) | |
+| 3 | SED350 | Software Engineering Economics | 3(3, 0) | |
+| 4 | SED351 | Software Engineering Economics | 3(3, 0) | |
+| 5 | SED352 | Information System Audit | 3(3, 0) | |
+| 6 | SED353 | Business Process Automation | 3(3, 0) | |
+| 7 | SED357 | Software Process Improvemnt | 3(2, 1) | |
+| 8 | SED358 | Reverse Engineering of Source Code | 3(2, 1) | |
+
+### Supporting Science Elective
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC475 | Numerial Computing | 3(3, 0) | MTH104 |
-| 2 | MTH105 | Multivariable  Calculus | 3(3, 0) | MTH104 |
-| 3 | MTH242 | Differential Equations | 3(3, 0) | MTH104 |
-|   |      | **Total Credit Hours** | 9 |  |
+| 1 | BIO424 | Bioinformatics Software Development | 3(2, 1) | |
+| 2 | ECO300 | Engineering Economics | 3(3, 0) | MGT131 |
+| 3 | MTH105 | Multivariable Calculus | 3(3, 0) | MTH104 |
+| 4 | MTH242 | Differential Equations | 3(3, 0) | MTH105 |
+| 5 | MTH375 | Numerical Computing | 3(3, 0) | MTH231 |
+| 6 | MTH465 | Topics in Scientific Computing | 3(3, 0) | |
+| 7 | MTH467 | Operations Research | 3(3, 0) | |
+| 8 | Phy100 | Mechanics & Thermodynamics | 4(3, 1) | |
 
-## Computer Science Elective Courses
-
-### Track 1 <small>Specialization: Software Development</small>
-
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC303 | Mobile Application Development | 3(2, 1) | CSC241 |
-| 2 | CSC392 | Software Design MEthodologies | 3(3, 0) | CSC291 |
-| 3 | CSC412 | Visual Programming | 3(2, 1) | CSC241 |
-| 4 | CSC494 | Software Project Management | 3(3, 0) | CSC291 |
-| 5 | CSC495 | Game Development | 3(3, 0) | CSC241 |
-
-### Track 2 <small>Specialization: Network & Security</small>
+### Institutional Elective Courses
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC332 | Parallel & Distributed Computing | 3(2, 1) | CSC103 |
-| 2 | CSC430 | Wireless Networks | 3(2, 1) | - |
-| 3 | CSC432 | Information Security | 3(3, 0)| CSC339 |
-| 4 | CSC482 | Systems & Networks Administration | 3(2, 1) | CSC322, CSC339 |
+| 1 | HUM320 | Introduction to Sociology | 3(3, 0) | |
+| 2 | HUM430 | French | 3(3, 0) | |
+| 3| HUM431 | German | 3(3, 0) | |
+| 4 | HUM432 | Arabic | 3(3, 0) | |
+| 5 | HUM433 | Persian | 3(3, 0) | |
+| 6 | MGT131 | Financial Accounting | 3(3, 0) | |
+| 7 | MGT350 | Human Resource MAnagement | 3(3, 0) | MGT101 |
+| 8 | MGT403 | Enterpreneurship | 3(3, 0) | MGT101 |
+| 9 | MGT463 | Productivity & Quality Management | 3(3, 0) | MGT101 |
+| 10 | MGT513 | New Project Development  | 3(3, 0) | |
+| 11 | MGT522 | MArketing of IT and Telecom Products | 3(3, 0) | |
 
-### Track 3 <small>Specialization: Database Technologies</small>
+### Domain Specific Elective[^3]
 
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC347 | Computional Intelligence | 3(3, 0) | CSC241 |
-| 2 | CSC402 | Database Systems II | 3(3, 0) | CSC371 |
-| 3 | CSC461 | Introduction to Data Science | 3(3, 0) | MTH231, MTH262 |
-| 4 | CSC471 | Distributed Database Syatems | 3(3, 0) | CSC371 |
-| 5 | CSC496 | Data Warehousing and Data Mining | 3(2, 1) | CSC371 |
+[^3]: In depth treatment of one of the following SE Application Domains should be offered in the form of set of two or three courses  of 3 credits each in the selected domain
 
-### Track 4 <small>Specialization: Database Technologies</small>
-
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC331 | Digital Image Processing | 3(3, 0) | MTH231, MTH262 |
-| 2 | CSC353 | Computer GRaphics | 3(2, 1) | MTH231 |
-| 3 | CSC354 | MAchine Learing | 3(3, 0) | - |
-| 4 | CSC421 | Robotics | 3(3, 0) | - |
-| 5 | CSC451 | Introduction to Modeling & Simulation | 3(2, 1) | CSC102, CSC211 |
-| 6 | CSC454 | Pattern Recognition | 3(3, 0) | CSC354 |
-| 7 | CSC455 | Computer Vision | 3(3, 0) | MTH231, MTH262 |
-
-## General Computer Science Electives:
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | CSC350 | Topics in Compter Science I | 3(3, 0) | |
-| 2 | CSC483 | Topics in Compter Science II | 3(3, 0) | |
-
-## Institutional Electives:
-
-### Category 1
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | MGT100 | Introduction to Business | 3(3, 0) | - |
-| 2 | MGT101 | Introduction to Management | 3(3, 0) | - |
-| 3 | MGT131 | Financial Accounting | 3(3, 0) | - |
-| 4 | MGT210 | Fundamentals of MArketing | 3(3, 0) | - |
-| 5 | MGT350 | Human Resource Management | 3(3, 0) | - |
-
-### Category 2
-
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | HUM220 | Introduction to Psychology | 3(3, 0) | - |
-| 2 | HUM221 | International Relations | 3(3, 0) | - |
-| 3 | HUM430 | French | 3(3, 0) | - |
-| 4 | HUM431 | German | 3(3, 0) | - |
-| 5 | HUM432 | Arabic | 3(3, 0) | - |
-| 6 | HUM433 | Persian | 3(3, 0) | - |
-| 7 | HUM434 | Chinese | 3(3, 0) | - |
-| 8 | HUM435 | Japanese | 3(3, 0) | - |
-
-## Sciences Electives:
-
-| # | Code | Title | Credit Hours | Pre-requisite(s) |
-|:-:|:----:|-------|:------------:|:----------------:|
-| 1 | BIO100 | Fundamentals of Biology | 3(2, 1) | - |
-| 2 | BIO135 | General Chemistry | 4(3, 1) | - |
-| 3 | BIO231 | Fundamentals of Genetics | 4(3, 1) | - |
-| 4 | BIO233 | Developmental Biology | 4(3, 1) | - |
-| 5 | BIO310 | Intro to Bioinformatics | 4(3, 1) | - |
-| 6 | BSC101 | Zoology I | 4(3, 1) | - |
-| 7 | BSC102 | Plant Sciences I | 4(3, 1) | - |
-| 8 | BSC206 | Intro to Microbiology | 4(3, 1) | - |
-| 9 | ENV230 | Envirnomental Monitoring | 3(2, 1) | - |
-| 10 | MTH112 | Set Theory and Logic | 3(3, 0) | - |
-| 11 | MTH232 | Abstract Algerba | 3(3, 0) | - |
-| 12 | MTH251 | Set Toplogy | 3(3, 0) | - |
-| 13 | PHY100 | Mechanics & Thermodynamics | 4(3, 1) | - |
-| 14 | PHY120 | Electricity, Magnetism & Optics | 4(3, 1) | - |
-| 15 | PHY229 | Modren Physics | 4(3, 1) | PHY120 |
-| 16 | SLS130 | Introductory Soil Science I | 4(3, 1) | - |
+| # | Code | Domain | Title | Credit Hours | Pre-requisite(s) |
+|:-:|:----:|--------|-------|:------------:|:----------------:|
+| 1 | SED360 | Safety Critical Systems | Software Saftey Critical Systems | 3(3, 0) | |
+| 2 | SED361 | Safety Critical Systems | Software Fault Tolerance | 3(3, 0) | |
+| 3 | CSD478 | Informtion Sytems & Data Processing | Data Warehousing | 3(3, 0) | CSD302 |
+| 4 | CSD479 |Informtion Sytems & Data Processing | Data Mining | 3(3, 0) | CSD302 |
+| 5 | CSD448 | Scientifics Systems | Data Visualization | 3(3, 0) | |
+| 6 | CSD304 | Scientifics Systems | Computer Graphics | 4(3, 1) | CSD200, MTH231 |
