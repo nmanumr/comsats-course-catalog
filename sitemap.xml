@@ -156,6 +156,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://nmanumr.github.io/comsats-course-catalog/courses/CSC101/</loc>
+     <lastmod>2019-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://nmanumr.github.io/comsats-course-catalog/courses/CSC102/</loc>
      <lastmod>2019-06-04</lastmod>
      <changefreq>daily</changefreq>
@@ -171,7 +176,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://nmanumr.github.io/comsats-course-catalog/courses/HUM110/</loc>
+     <lastmod>2019-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nmanumr.github.io/comsats-course-catalog/courses/MTH104/</loc>
+     <lastmod>2019-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://nmanumr.github.io/comsats-course-catalog/courses/MTH105/</loc>
+     <lastmod>2019-06-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://nmanumr.github.io/comsats-course-catalog/courses/PHY121/</loc>
      <lastmod>2019-06-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
