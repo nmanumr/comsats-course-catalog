@@ -2,6 +2,7 @@
 {% if nav_item.active %}
   {% set class = "md-nav__item md-nav__item--active" %}
 {% endif %}
+{% if not nav_item.title.startswith("_") %}
 {% if nav_item.children %}
   <li class="{{ class }} md-nav__item--nested">
     {% if nav_item.active %}
@@ -51,4 +52,5 @@
       {{ nav_item.title }}
     </a>
   </li>
+{% endif %}
 {% endif %}

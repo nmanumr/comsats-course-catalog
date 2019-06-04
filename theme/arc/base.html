@@ -54,16 +54,6 @@
     {% endblock %}
     {% block styles %}
       <link rel="stylesheet" href="{{ 'assets/stylesheets/application.71a4a342.css' | url }}">
-      {% if palette.primary or palette.accent %}
-        <link rel="stylesheet" href="{{ 'assets/stylesheets/application-palette.109434e3.css' | url }}">
-      {% endif %}
-      {% if palette.primary %}
-        {% import "partials/palette.html" as map %}
-        {% set primary = map.primary(
-          palette.primary | replace(" ", "-") | lower
-        ) %}
-        <meta name="theme-color" content="{{ primary }}">
-      {% endif %}
     {% endblock %}
     {% block libs %}
       <script src="{{ 'assets/javascripts/modernizr.962652e9.js' | url }}"></script>
@@ -76,6 +66,11 @@
       <link rel="stylesheet" href="{{ path | url }}">
     {% endfor %}
     {% block extrahead %}{% endblock %}
+    {% block analytics %}
+      {% if config.google_analytics %}
+        {% include "partials/integrations/analytics.html" %}
+      {% endif %}
+    {% endblock %}
   </head>
   <body dir="{{ lang.t('direction') }}" data-md-color-primary="light">
     <svg class="md-svg">
@@ -197,11 +192,6 @@
       {% for path in config["extra_javascript"] %}
         <script src="{{ path | url }}"></script>
       {% endfor %}
-    {% endblock %}
-    {% block analytics %}
-      {% if config.google_analytics %}
-        {% include "partials/integrations/analytics.html" %}
-      {% endif %}
     {% endblock %}
   </body>
 </html>
