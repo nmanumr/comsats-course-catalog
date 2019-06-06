@@ -1,8 +1,33 @@
 # Bachelor of Science in Mathematics
 
+
 ## Minimum Duration
 * No of years: 04
 * No of Semesters: 08
+
+## Proposed Study Plan
+
+### Semester 1
+
+| # | Code | Title | Credit Hours | Pre-requisite(s) |
+|:-:|:----:|-------|:------------:|:----------------:|
+| 1 | CSC101 | Introduction to Computing | 3(3, 0) |  | 
+| 2 | ~HUM100 | English Comprehension and Composition | 3(3, 0) |  | 
+| 3 | ~HUM110 | Islamic Studies | 3(3, 0) |  | 
+| 4 | HUM221 | International Relations | 3(3, 0) |  | 
+| 5 | MTH101 | Calculus I | 3(3, 0) |  | 
+| 6 | MTH112 | Set Theory and Logic | 3(3, 0) |  | 
+
+### Semester 2
+
+| # | Code | Title | Credit Hours | Pre-requisite(s) |
+|:-:|:----:|-------|:------------:|:----------------:|
+| 1 | CSC141 | Introduction to Computer Programming | 4(3, 1) | CSC101 | 
+| 2 | ~HUM102 | Report Writing Skills | 3(3, 0) | ~HUM100 | 
+| 3 | HUM111 | Pakistan Studies | 3(3, 0) |  | 
+| 4 | MTH102 | Calculus II | 3(3, 0) | MTH101 | 
+| 5 | MTH211 | Discrete Mathematics | 3(3, 0) |  | 
+| 6 | MTH231 | Linear Algebra | 3(3, 0) |  | 
 
 ## Core Courses
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
@@ -10,10 +35,10 @@
 | 1 | CSC101 | Introduction to Computing | 3(3, 0) |  | 
 | 2 | CSC111 | Algorithms | 3(3, 0) |  | 
 | 3 | CSC141 | Introduction to Computer Programming | 4(3, 1) | CSC101 | 
-| 4 | HUM100 | English Comprehension and Composition | 3(3, 0) |  | 
-| 5 | HUM102 | Report Writing Skills | 3(3, 0) | HUM100 | 
-| 6 | HUM103 | Communication Skills | 3(3, 0) | HUM100 | 
-| 7 | HUM110 | Islamic Studies | 3(3, 0) |  | 
+| 4 | ~HUM100 | English Comprehension and Composition | 3(3, 0) |  | 
+| 5 | ~HUM102 | Report Writing Skills | 3(3, 0) | ~HUM100 | 
+| 6 | HUM103 | Communication Skills | 3(3, 0) | ~HUM100 | 
+| 7 | ~HUM110 | Islamic Studies | 3(3, 0) |  | 
 | 8 | HUM111 | Pakistan Studies | 3(3, 0) |  | 
 | 9 | HUM221 | International Relations | 3(3, 0) |  | 
 | 10 | MTH101 | Calculus I | 3(3, 0) |  | 

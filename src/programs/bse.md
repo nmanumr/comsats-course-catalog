@@ -40,8 +40,8 @@ Bachelor of Science in Software Enginnering
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | HUM100 | English Comprehension & Composition | 3(3, 0) | - |
-| 2 | HUM110 | Islamic Studies | 3(3, 0) | - |
+| 1 | ~HUM100 | English Comprehension & Composition | 3(3, 0) | - |
+| 2 | ~HUM110 | Islamic Studies | 3(3, 0) | - |
 | 3 | EEE119 | Circuits & Electronics | 4(3, 1) | - |
 | 4 | CSD102 | Intro to ICT | 4(3, 1) | - |
 | 5 | CSD100 | Fundamentals of Computer Programming | 4(3, 1)| - |
@@ -52,8 +52,8 @@ Bachelor of Science in Software Enginnering
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
 | 1 | CSD101 | Discrete Structures | 3(3, 0) | - |
-| 2 | MTH104 | Calculus & Analytic Geometry | 3(3, 0) | - |
-| 3 | HUM103 | Communication Skills | 3(3, 0) | HUM100 |
+| 2 | ~MTH104 | Calculus & Analytic Geometry | 3(3, 0) | - |
+| 3 | HUM103 | Communication Skills | 3(3, 0) | ~HUM100 |
 | 4 | EEE241 | Digital Logic Design | 4(3, 1) | - |
 | 5 | CSD200 | Object Oriented Programming | 4(3, 1) | CSD100 |
 | 6 | HUM111 | Pakistan Studies | 3(3, 0) | - |
@@ -67,7 +67,7 @@ Bachelor of Science in Software Enginnering
 | 2 | CSD202 | Data Structures & Algorithms | 4(3, 1) | CSD100 |
 | 3 | | Supporting Science Elective I | 3(3, 0) | |
 | 4 | CSD203 | Computer Organization and Assembly Language | 4(3, 1) | CSD100 |
-| 5 | HUM102 | Communication Skills | 3(3, 0) | HUM100 |
+| 5 | HUM102 | Communication Skills | 3(3, 0) | ~HUM100 |
 |   |        | **Credit Hours** | 17(15, 2) |  |
 
 ### Semester 4
@@ -165,7 +165,7 @@ Bachelor of Science in Software Enginnering
 |:-:|:----:|-------|:------------:|:----------------:|
 | 1 | EEE119 | Circuits and Electronics | 4(3, 1) | |
 | 2 | EEE241 | Digital Logic Design | 4(3, 1) | |
-| 3 | MTH104 | Calculus and Analytic Geometery | 3(3, 0) | |
+| 3 | ~MTH104 | Calculus and Analytic Geometery | 3(3, 0) | |
 | 4 | MTH231 | Linear Algerba | 3(3, 0) | |
 | 5 | MTH262 | Statistics & Probability Theory | 3(3, 0) | |
 
@@ -173,15 +173,15 @@ Bachelor of Science in Software Enginnering
 
 | # | Code | Title | Credit Hours | Pre-requisite(s) |
 |:-:|:----:|-------|:------------:|:----------------:|
-| 1 | HUM103 | Communication Skills | 3(3, 0) | HUM100 |
-| 2 | HUM100 | English Comprehension & Composition | 3(3, 0) | |
+| 1 | HUM103 | Communication Skills | 3(3, 0) | ~HUM100 |
+| 2 | ~HUM100 | English Comprehension & Composition | 3(3, 0) | |
 | 3 | MGT101 | Introduction to Management | 3(3, 0) | |
-| 4 | HUM110 | Islamic Studies[^1] | 3(3, 0) | |
+| 4 | ~HUM110 | Islamic Studies[^1] | 3(3, 0) | |
 | 5 | HUM111 | Pakistan Studies | 3(3, 0) | |
-| 6 | HUM102 | Report Writing Skills | 3(3, 0) | HUM100 |
+| 6 | HUM102 | Report Writing Skills | 3(3, 0) | ~HUM100 |
 | 7 | SED499 | Project[^2] | 6(0, 2) | |
 
-[^1]: Non-Muslims students can opt for HUM1114 Ethics 3(3, 0) course in lieu of HUM100 Islic studies
+[^1]: Non-Muslims students can opt for HUM1114 Ethics 3(3, 0) course in lieu of ~HUM110 Islic studies
 
 [^2]: SED499 can only be offered/registered in 7th and 8th  as 2(0, 2) and 4(0, 4) respectively
 
@@ -222,8 +222,8 @@ Bachelor of Science in Software Enginnering
 |:-:|:----:|-------|:------------:|:----------------:|
 | 1 | BIO424 | Bioinformatics Software Development | 3(2, 1) | |
 | 2 | ECO300 | Engineering Economics | 3(3, 0) | MGT131 |
-| 3 | MTH105 | Multivariable Calculus | 3(3, 0) | MTH104 |
-| 4 | MTH242 | Differential Equations | 3(3, 0) | MTH105 |
+| 3 | ~MTH105 | Multivariable Calculus | 3(3, 0) | ~MTH104 |
+| 4 | MTH242 | Differential Equations | 3(3, 0) | ~MTH105 |
 | 5 | MTH375 | Numerical Computing | 3(3, 0) | MTH231 |
 | 6 | MTH465 | Topics in Scientific Computing | 3(3, 0) | |
 | 7 | MTH467 | Operations Research | 3(3, 0) | |

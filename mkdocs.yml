@@ -28,38 +28,35 @@ google_analytics:
 nav:
   - Programs:
     - Index: "index.md"
-    - B Architecture: "programs/barc.md"
-    - B Design: "programs/bdes.md"
-    - B Fine Arts: "programs/bart.md"
-    - BS Computer Science: "programs/bscs.md"
-    - BS Software Engineering: "programs/bsse.md"
-    - BS Telecom & Network: "programs/bstn.md"
-    - BS Economics: "programs/bsec.md"
-    - BS Accounting & Finance: "programs/bsaf.md"
-    - BS Business Administration: "programs/bba.md"
-    - BS Psychology: "programs/bsps.md"
     - BS Media Studies: "programs/bsms.md"
-    - BS Physics: "programs/bsphy.md"
-    - BS Electronics: "programs/bsel.md"
-    - BS Bioinformatics: "programs/bsbi.md"
-    - BS Biosciences: "programs/bsbs.md"
-    - BS Electrical (Electronics) Engineering: "programs/bseee.md"
-    - BS Electrical (Power) Engineering: "programs/bsepe.md"
-    - BS Electrical (Computer) Engineering: "programs/bsece.md"
-    - BS Electrical (Telecommunication) Engineering: "programs/bsete.md"
-    - BS Electrical Engineering: "programs/bsee.md"
-    - BS Computer Engineering: "programs/bsce.md"
-    - BS Chemical Engineering: "programs/bsche.md"
-    - BS Mechanical Engineering: "programs/bsme.md"
-    - BS Civil Engineering: "programs/bscve.md"
-    - BS Mathematics: "programs/bsmath.md"
-    - BS Statistics: "programs/bsstat.md"
-    - BS Earth Sciences: "programs/bsearth.md"
-    - BS Development Studies: "programs/bsds.md"
-    - BS Environmental Sciences: "programs/bses.md"
-    - BS Biotechnology: "programs/bsbt.md"
+    - BS Computer Science: "programs/bcs.md"
+    - BS Software Engineering: "programs/bse.md"
+    - BS Computer Engineering: "programs/bce.md"
+    - BS Chemical Engineering: "programs/che.md"
+    - BS Electrical Engineering: "programs/bee.md"
+    - BS Business Administration: "programs/bba.md"
+    - BS Accounting & Finance: "programs/baf.md"
+    - BS Economics: "programs/bec.md"
+    - BS Physics: "programs/bph.md"
+    - BS Psychology: "programs/bpy.md"
+    - BS Mathematics: "programs/bsm.md"
+    - BS Statistics: "programs/bss.md"
+    - B Design: "programs/bde.md"
+    - B Interior Design: "programs/bid.md"
+    - B Architecture: "programs/bar.md"
     - _Courses:
+      - Index: "courses/index.md"
+      - CSC101: "courses/CSC101.md"
       - CSC102: "courses/CSC102.md"
+      - CSC102: "courses/CSC103.md"
+      - CSC110: "courses/CSC110.md"
+      - HUM100: "courses/HUM100.md"
+      - HUM102: "courses/HUM102.md"
+      - HUM110: "courses/HUM110.md"
+      - MTH104: "courses/MTH104.md"
+      - MTH105: "courses/MTH105.md"
+      - PHY121: "courses/PHY121.md"
+
 
 # Extensions
 markdown_extensions:
@@ -92,3 +89,7 @@ markdown_extensions:
 
 extra_css:
     - assets/styles/utils.css
+
+plugins:
+  - search
+  - auto-course-plugin
