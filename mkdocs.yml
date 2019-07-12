@@ -7,7 +7,7 @@ site_dir: docs
 
 # Repository
 repo_name: nmanumr/comsats-course-catalog
-repo_url: https://nmanumr.github.io/comsats-course-catalog
+repo_url: https://github.com/nmanumr/comsats-course-catalog
 edit_uri: ""
 
 # Theme
