@@ -1,3 +1,0 @@
-[mkdocs.plugins]
-auto-course-plugin = mkdocs_course_plugin.plugin:AutoCoursePlugin
-
