@@ -1,3 +1,4 @@
 {
-    "search.usePCRE2": true
+    "search.usePCRE2": true,
+    "python.pythonPath": "/home/namnumr/.local/share/virtualenvs/COMSATS_Courses-wqnp5wh0/bin/python"
 }
