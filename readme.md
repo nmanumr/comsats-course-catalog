@@ -4,7 +4,7 @@
 
 ```sh
 # install mkdocs and other dependencies
-pip install mkdocs Pygments pymdown-extensions
+pip install mkdocs Pygments
 
 # install our custom plugin mkdocs_course_plugin
 cd ./plugins/mkdocs_course_plugin
